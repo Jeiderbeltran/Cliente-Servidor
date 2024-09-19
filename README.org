@@ -1,0 +1,19 @@
+#+title: Distributed systems
+#+author: Cristian Ramírez
+#+email: rvcristiand@unal.edu.co
+#+description: Distributed systems course.
+#+keywords: distribted systems
+#+language: en
+
+Distributed system course offered for first time at the [[https://www.ucatolica.edu.co/english/][Catholic University of Colombia]].
+
+** Create a Python Virtual Environment from the [[file:requirements.txt][requirements.txt]]
+To run the code in this repository, create a Python Virtual Environment from the [[file:requirements.txt][requirements.txt]].
+
+#+begin_src sh
+python -m pip install -r requirements.txt
+#+end_src
+
+** workshop
+1. 
+

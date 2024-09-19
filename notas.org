@@ -1,0 +1,8 @@
+#+title: sockects
+#+author: Cristian Ramírez
+#+email: cdramirez@ucatolica.edu.co
+#+todo: todo in-progress | done
+
+* done read about udp
+
+* 
